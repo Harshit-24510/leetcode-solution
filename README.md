@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Heap (Priority Queue)
 |  |
