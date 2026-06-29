@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshit-24510/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
+| [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshit-24510/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
+| [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
