@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
