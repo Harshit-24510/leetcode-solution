@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
+| [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshit-24510/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0260-single-number-iii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
