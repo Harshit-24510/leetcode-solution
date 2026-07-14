@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshit-24510/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
