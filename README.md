@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-24510/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
