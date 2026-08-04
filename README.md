@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-24510/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
