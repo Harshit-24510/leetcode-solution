@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
