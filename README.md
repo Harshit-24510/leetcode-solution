@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-24510/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-24510/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-24510/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-24510/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshit-24510/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
