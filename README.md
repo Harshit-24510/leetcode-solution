@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-24510/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -286,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
