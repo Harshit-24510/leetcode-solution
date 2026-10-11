@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Harshit-24510/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0260-single-number-iii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-24510/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Harshit-24510/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-24510/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/1288-remove-covered-intervals) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
