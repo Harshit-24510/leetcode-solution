@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshit-24510/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshit-24510/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshit-24510/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-24510/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-24510/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
