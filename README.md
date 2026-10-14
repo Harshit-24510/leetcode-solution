@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-24510/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harshit-24510/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/Harshit-24510/leetcode-solution/tree/master/3870-count-commas-in-range) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Harshit-24510/leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harshit-24510/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Harshit-24510/leetcode-solution/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
