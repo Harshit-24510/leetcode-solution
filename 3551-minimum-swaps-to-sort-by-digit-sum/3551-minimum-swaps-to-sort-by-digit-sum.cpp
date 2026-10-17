@@ -1,40 +1,61 @@
 class Solution {
 public:
+
+    int getDigitSum(int num) {
+        int sum = 0;
+
+        while(num > 0) {
+            sum += (num % 10);
+            num /= 10;
+        }
+
+        return sum;
+    }
+
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        vector<tuple<int,int,int>> v;
 
-        for (int i = 0; i < n; i++) {
-            int x = nums[i], sum = 0;
+        vector<int> afterSorted(nums);
 
-            while (x > 0) {
-                sum += x % 10;
-                x /= 10;
+        auto lambda = [&](int num1, int num2) {
+            int num1DigitSum = getDigitSum(num1); //log10(num)
+            int num2DigitSum = getDigitSum(num2);
+
+            if(num1DigitSum != num2DigitSum) {
+                return num1DigitSum < num2DigitSum;
             }
 
-            v.push_back({sum, nums[i], i});
+            return num1 < num2;
+        };
+
+        sort(begin(afterSorted), end(afterSorted), lambda); //nlogn * N
+
+        unordered_map<int, int> valToIdx;
+        for(int i = 0; i < n; i++) { //O(n)
+            valToIdx[nums[i]] = i;
         }
 
-        sort(v.begin(), v.end());
+        
+        int swapCount = 0;
+        for(int i = 0; i < n; i++) { //O(n)
+            int expectedVal = afterSorted[i];
+            int currVal     = nums[i];
 
-        int ans = 0;
-        vector<bool> vis(n, false);
+            if(expectedVal == currVal) continue;
 
-        for (int i = 0; i < n; i++) {
-            if (vis[i] || get<2>(v[i]) == i)
-                continue;
+            int idx = valToIdx[expectedVal];
 
-            int j = i, cnt = 0;
+            nums[i] = expectedVal;
+            nums[idx] = currVal;
 
-            while (!vis[j]) {
-                vis[j] = true;
-                j = get<2>(v[j]);
-                cnt++;
-            }
+            valToIdx[expectedVal] = i;
+            valToIdx[currVal] = idx;
 
-            ans += cnt - 1;
+            swapCount++;
         }
 
-        return ans;
+        return swapCount;
+
+
     }
 };
