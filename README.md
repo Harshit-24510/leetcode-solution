@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-24510/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Harshit-24510/leetcode-solution/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3620-network-recovery-pathways](https://github.com/Harshit-24510/leetcode-solution/tree/master/3620-network-recovery-pathways) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-24510/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-24510/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Harshit-24510/leetcode-solution/tree/master/0190-reverse-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshit-24510/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -322,10 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-24510/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-24510/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
@@ -352,4 +359,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
