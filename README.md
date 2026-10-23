@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Harshit-24510/leetcode-solution/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshit-24510/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Harshit-24510/leetcode-solution/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Harshit-24510/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Harshit-24510/leetcode-solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
