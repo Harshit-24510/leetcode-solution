@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshit-24510/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshit-24510/leetcode-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
