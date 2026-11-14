@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Harshit-24510/leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Harshit-24510/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Harshit-24510/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Harshit-24510/leetcode-solution/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Harshit-24510/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Harshit-24510/leetcode-solution/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-24510/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Harshit-24510/leetcode-solution/tree/master/2032-two-out-of-three) |
