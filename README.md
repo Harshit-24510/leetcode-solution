@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Harshit-24510/leetcode-solution/tree/master/0131-palindrome-partitioning) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Harshit-24510/leetcode-solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Harshit-24510/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Harshit-24510/leetcode-solution/tree/master/0131-palindrome-partitioning) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-24510/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0856-score-of-parentheses) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshit-24510/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
