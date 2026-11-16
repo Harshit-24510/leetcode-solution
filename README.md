@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-24510/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshit-24510/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Harshit-24510/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-24510/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-24510/leetcode-solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harshit-24510/leetcode-solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Breadth-First Search
 |  |
