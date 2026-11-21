@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshit-24510/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Harshit-24510/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-24510/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshit-24510/leetcode-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-24510/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-24510/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Harshit-24510/leetcode-solution/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-24510/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Harshit-24510/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-24510/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-24510/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-24510/leetcode-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-24510/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Harshit-24510/leetcode-solution/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-24510/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Harshit-24510/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-24510/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Harshit-24510/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Harshit-24510/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Harshit-24510/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-24510/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshit-24510/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Harshit-24510/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshit-24510/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Harshit-24510/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-24510/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-24510/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Harshit-24510/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Harshit-24510/leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
